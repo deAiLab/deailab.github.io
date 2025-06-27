@@ -2,7 +2,7 @@ title: Decentralization and AI Lab
 description: Our Lab vision the future of decentralization of the world, through the power of AI. and blockchain technology.
 
 # GitHub Pages 配置
-baseurl: "" # 如果部署在 username.github.io/repo-name 则需要设置
+baseurl: "/labweb" # 如果部署在 username.github.io/repo-name 则需要设置
 url: "https://de-llm.github.io" # 替换为你的GitHub用户名
 
 # 构建设置
