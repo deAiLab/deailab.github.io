@@ -3,7 +3,7 @@ description: Our Lab vision the future of decentralization of the world, through
 
 # GitHub Pages 配置
 baseurl: "" # 个人主页仓库必须为空
-url: "https://de-llm.github.io" # 替换为你的GitHub用户名
+url: "https://deai-lab.github.io" # 替换为你的GitHub用户名
 
 # 构建设置
 markdown: kramdown
