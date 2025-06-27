@@ -70,9 +70,9 @@ title: 去中心化与人工智能实验室
 
 ## 联系我们 {#contact}
 
-- **地址**: 深圳市南山区深圳大学电子与信息工程学院
+- **地址**: 深圳市南山区深圳大学电子与信息工程学院N201
 - **邮箱**: slzang.szu@gmail.com
-- **GitHub**: [@DE-AI](https://github.com/deai-lab)
+- **GitHub**: [@deAiLab](https://github.com/deAiLab)
 - **Google Scholar**: [张胜利](https://scholar.google.com/citations?user=vjujlkoAAAAJ&hl=zh-CN)
 
 ---
