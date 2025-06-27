@@ -1,0 +1,62 @@
+title: Decentralization and AI Lab
+description: Our Lab vision the future of decentralization of the world, through the power of AI. and blockchain technology.
+
+# GitHub Pages 配置
+baseurl: "" # 如果部署在 username.github.io/repo-name 则需要设置
+url: "https://your-username.github.io" # 替换为你的GitHub用户名
+
+# 构建设置
+markdown: kramdown
+permalink: pretty
+
+# 插件
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# 排除文件
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - .github
+
+# 集合
+collections:
+  publications:
+    output: true
+  projects:
+    output: true
+  members:
+    output: true
+
+# 默认设置
+defaults:
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "members"
+    values:
+      layout: "member"
+
+# 作者信息
+author:
+  name: "Decentralization and AI Lab"
+  email: "contact@example.com"
+  bio: "致力于去中心化和人工智能技术的研究实验室"
+  location: "中国"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/your-username" 

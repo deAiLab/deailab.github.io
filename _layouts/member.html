@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="member">
+    <header class="member-header">
+        <h1>{{ page.title }}</h1>
+        {% if page.position %}
+        <p class="position">{{ page.position }}</p>
+        {% endif %}
+        {% if page.email %}
+        <p class="email">邮箱：<a href="mailto:{{ page.email }}">{{ page.email }}</a></p>
+        {% endif %}
+    </header>
+
+    <div class="member-content">
+        {{ content }}
+    </div>
+
+    {% if page.research_interests %}
+    <div class="research-interests">
+        <h3>研究方向</h3>
+        <ul>
+            {% for interest in page.research_interests %}
+            <li>{{ interest }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+
+    {% if page.publications %}
+    <div class="publications">
+        <h3>主要论文</h3>
+        <ul>
+            {% for pub in page.publications %}
+            <li>{{ pub }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</article> 

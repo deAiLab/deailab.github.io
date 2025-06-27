@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="project">
+    <header class="project-header">
+        <h1>{{ page.title }}</h1>
+        {% if page.period %}
+        <p class="period">{{ page.period }}</p>
+        {% endif %}
+        {% if page.funding %}
+        <p class="funding">资助方：{{ page.funding }}</p>
+        {% endif %}
+    </header>
+
+    <div class="project-content">
+        {{ content }}
+    </div>
+
+    {% if page.team %}
+    <div class="project-team">
+        <h3>项目团队</h3>
+        <ul>
+            {% for member in page.team %}
+            <li>{{ member }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+    {% endif %}
+</article> 
