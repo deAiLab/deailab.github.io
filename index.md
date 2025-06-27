@@ -52,11 +52,10 @@ title: 去中心化与人工智能实验室
 ## 团队成员 {#team}
 
 ### 实验室老师
-- **张胜利教授** 
-- 深圳大学教授，斯坦福大学访问教授，麦考瑞大学荣誉教授。研究方向：信息论、区块链技术、人工智能
+- **张胜利**，深圳大学教授，斯坦福大学访问教授，麦考瑞大学荣誉教授。研究方向：信息论、区块链技术、人工智能
 
-- **王滔滔副教授** 
-- **杨晴副教授** 
+- **王滔滔** 
+- **杨晴** 
 
 
 ### 博士后与研究生
@@ -73,7 +72,7 @@ title: 去中心化与人工智能实验室
 
 - **地址**: 深圳市南山区深圳大学电子与信息工程学院
 - **邮箱**: slzang.szu@gmail.com
-- **GitHub**: [@DE-LLM](https://github.com/deai-lab)
+- **GitHub**: [@DE-AI](https://github.com/deai-lab)
 - **Google Scholar**: [张胜利](https://scholar.google.com/citations?user=vjujlkoAAAAJ&hl=zh-CN)
 
 ---
