@@ -53,10 +53,10 @@ defaults:
 # 作者信息
 author:
   name: "Decentralization and AI Lab"
-  email: "contact@example.com"
+  email: "slzhang.szu@gmail.com"
   bio: "致力于去中心化和人工智能技术的研究实验室"
-  location: "中国"
+  location: "中国深圳"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/DE-LLM" 
+      url: "https://github.com/deAiLab" 
