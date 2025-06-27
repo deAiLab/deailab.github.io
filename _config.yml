@@ -3,7 +3,7 @@ description: Our Lab vision the future of decentralization of the world, through
 
 # GitHub Pages 配置
 baseurl: "" # 如果部署在 username.github.io/repo-name 则需要设置
-url: "https://your-username.github.io" # 替换为你的GitHub用户名
+url: "https://de-llm.github.io" # 替换为你的GitHub用户名
 
 # 构建设置
 markdown: kramdown
@@ -59,4 +59,4 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/your-username" 
+      url: "https://github.com/DE-LLM" 
